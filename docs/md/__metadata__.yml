@@ -1,15 +1,15 @@
 ---
 documentclass: article
 lang: "en"
-title: "Properties of Expanding Universes"
-subtitle: "PhD Thesis @ University of Cambridge"
-author: "Stephen Hawking"
-date: "1965/1966"
+title: "Notes"
+subtitle: "Software Engineering @ University of Insubria"
+author: "Roberto Vicario"
+date: "2024/2025"
 
 titlepage: false
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
-titlepage-rule-color: "FF0000"
+titlepage-rule-color: "007161"
 toc: true
 toc-own-page: true
 numbersections: true
